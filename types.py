@@ -2,7 +2,7 @@
 DATE=19TH NOV 2022
 DAY= SATURDAY
 TOPIC= TYPES
-AUTHOR= KIRANMAI
+AUTHOR= pooja
 '''
 a=4
 print(type(a)) #int
