@@ -1,8 +1,8 @@
 '''
-DATE=17TH NOV 2022
-DAY= thursday
+DATE=19TH NOV 2022
+DAY= saturday
 TOPIC= STRINGS
-AUTHOR= kiranmai
+AUTHOR= pooja
 '''
 k='global'
 print(k.index('b')) #3
